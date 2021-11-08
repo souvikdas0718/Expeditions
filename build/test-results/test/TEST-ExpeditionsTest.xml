@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExpeditionsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-08T21:13:37" hostname="Souviks-MacBook-Pro.local" time="2.405">
+  <properties/>
+  <testcase name="expeditionValidTest" classname="ExpeditionsTest" time="2.251"/>
+  <testcase name="verifyFailureTest" classname="ExpeditionsTest" time="0.154"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[21/11/08 17:13:37 WARN SparkContext: Support for Scala 2.10 is deprecated as of Spark 2.1.0
+21/11/08 17:13:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+                                                                                ]]></system-err>
+</testsuite>
