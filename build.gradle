@@ -1,4 +1,15 @@
+plugins {
+    id "application"
+}
+
 apply plugin: 'java'
+ext {
+    javaMainClass = "Expeditions"
+}
+
+application {
+    mainClassName = javaMainClass
+}
 apply plugin: 'idea'
 apply plugin: 'eclipse'
 
