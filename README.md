@@ -1,6 +1,6 @@
-# ExpeditionsSpark
+# Expeditions
 
-After cloning the repository in terminal goto ExpeditionsSpark folder and run ./gradlew idea(for linux or macOS) or run gradlew idea(Windows) to install the gradle dependencies.
+After cloning the repository in terminal goto Expeditions folder and run ./gradlew idea(for linux or macOS) or run gradlew idea(Windows) to install the gradle dependencies.
 
 To run the application through command line, Please follow the steps:
 1. Install gradle in the macOS environment using the command "brew install gradle" or  
